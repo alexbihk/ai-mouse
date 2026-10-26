@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 ai-mouse contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Additional notice / 附加说明:
+
+This software injects synthetic input into Windows. Use it only for UI testing,
+accessibility tooling and personal automation on machines you own or are
+authorized to operate. Do not use it for click farming, scalping/bot buying,
+game cheating, evading anti-bot or risk-control systems, or any use that
+violates the terms of a third-party service.
+
+本软件会向 Windows 注入合成输入。仅限在你拥有或已获授权操作的机器上，用于界面测试、
+无障碍辅助与个人自动化。不得用于刷量、抢购、游戏外挂、规避反爬或风控，或违反第三方
+服务条款的任何用途。使用者自行承担全部后果。

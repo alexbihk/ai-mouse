@@ -1,0 +1,13 @@
+# 不提交：本机实验残留、授权状态、个人路径
+__pycache__/
+*.pyc
+*.bak-*
+*bak-*/
+_bp*/
+_bp*
+_rec/
+consent.json
+*_result.json
+*.jsonl
+.venv/
+venv/
